@@ -43,7 +43,7 @@ The analysis includes the Landscape Ecological Risk Index (LERI) map, an upazila
 
 ## Chatmohar
 
-![Chatmohar Risk Map](Chatmohar.jpg)
+![Chatmohar Risk Map](Chatmohor.jpg)
 
 ## Tarash
 
