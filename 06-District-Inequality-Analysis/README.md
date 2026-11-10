@@ -37,6 +37,3 @@ Sixteen districts of northern Bangladesh.
 
 Undergraduate academic project completed as part of the Bachelor of Urban and Regional Planning (BURP) programme at Rajshahi University of Engineering & Technology (RUET).
 
-## Note
-
-The original report contains a discrepancy between the written RCI ranking and the corresponding table values. Unverified rankings have not been repeated here. The underlying calculation workbook and full normalization details were not available for independent verification. The four-category classification represents an analytical typology developed for this project, not an official government classification.
