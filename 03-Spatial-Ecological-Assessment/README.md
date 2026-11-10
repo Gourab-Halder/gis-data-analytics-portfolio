@@ -5,7 +5,7 @@
 
 This project presents a spatial assessment of ecological conditions across the Chalan Beel region of Bangladesh.
 
-The assessment examines four components: disturbance, exposure, vulnerability, and resilience. These components provide a spatial understanding of ecological pressures and the condition of the wetland ecosystem.
+The assessment examines four components: disturbance, exposure, vulnerability, and resilience. These components provide a spatial understanding of ecological pressures and ecosystem conditions.
 
 ## Study Area
 
@@ -13,17 +13,39 @@ The assessment examines four components: disturbance, exposure, vulnerability, a
 
 ## Assessment Components
 
-### 1. Disturbance
+### 1. Disturbance Assessment
 Spatial representation of ecological disturbances across the study area.
 
-### 2. Exposure
-Assessment of the spatial distribution of areas exposed to ecological pressures.
+### 2. Exposure Assessment
+Spatial distribution of areas exposed to ecological pressures.
 
-### 3. Vulnerability
+### 3. Vulnerability Assessment
 Identification of areas with varying levels of ecological vulnerability.
 
-### 4. Resilience
+### 4. Resilience Assessment
 Spatial assessment of ecological resilience across the study area.
+
+---
+
+# Spatial Assessment Maps
+
+## Disturbance Map
+
+![Disturbance Map](Disturbance.jpg)
+
+## Exposure Map
+
+![Exposure Map](Exposure.jpg)
+
+## Vulnerability Map
+
+![Vulnerability Map](Vulnerability.jpg)
+
+## Resilience Map
+
+![Resilience Map](Resilience.jpg)
+
+---
 
 ## Tools Used
 
