@@ -51,3 +51,4 @@ Graduation: 2026 | CGPA: 3.33/4.00
 
 - **GitHub:** [Gourab-Halder](https://github.com/Gourab-Halder)
 - **Location:** Rajshahi, Bangladesh
+- **Email:** ghalder838@gmail.com
