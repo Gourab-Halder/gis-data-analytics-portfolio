@@ -55,7 +55,7 @@ The analysis includes the Landscape Ecological Risk Index (LERI) map, an upazila
 
 ## Gurudaspur
 
-![Gurudaspur Risk Map](Gurudaspur.jpg)
+![Gurudaspur Risk Map](Gurudashpur.jpg)
 
 ## Atrai
 
