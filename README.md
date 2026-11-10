@@ -1,62 +1,53 @@
+# Gourab Halder | GIS, Remote Sensing & Data Analytics Portfolio
 
-# Gourab Halder
+Urban & Regional Planning Graduate from Rajshahi University of Engineering & Technology (RUET), with academic project experience in GIS, remote sensing, spatial analysis, ecological assessment, and regional data analysis.
 
-### GIS & Remote Sensing | Spatial Analysis | Data Analytics
-
-Welcome to my professional portfolio.
-
-I am an Urban and Regional Planning graduate from Rajshahi University of Engineering & Technology (RUET), Bangladesh. My academic and research interests include geospatial analysis, remote sensing, environmental assessment, and data analysis.
-
----
+This repository presents selected academic and technical projects demonstrating my experience in geospatial analysis, environmental assessment, regional development, and quantitative research.
 
 ## Technical Skills
 
-- **GIS & Remote Sensing:** ArcMap, Google Earth Engine
-- **Spatial Analysis:** LULC Classification, NDWI, NDMI, Ecological Risk Assessment
-- **Data Analysis:** Microsoft Excel, SPSS
-- **Other Tools:** AutoCAD, Microsoft Office
+- **GIS & Spatial Analysis:** ArcMap, QGIS, spatial analysis, cartography, georeferencing
+- **Remote Sensing:** Google Earth Engine, Landsat imagery, LULC classification, NDWI
+- **Data Analysis:** Microsoft Excel, statistical analysis, quantitative research, data interpretation
+- **Planning & Research:** Urban and regional planning, ecological assessment, technical reporting
 
----
+## Projects
 
-## Featured Projects
+### GIS and Remote Sensing
 
-### 1. Land Use and Land Cover Change Analysis (2005–2025)
+**01. [Land Use and Land Cover Change Analysis](01-LULC-Change-Analysis/)**
 
-Analysis of land-use and land-cover patterns in the Chalan Beel region using Landsat satellite imagery.
+Spatio-temporal analysis of land use and land cover changes in Chalan Beel, Bangladesh, from 2005 to 2025.
 
-[View Project](./01-LULC-Change-Analysis/)
+**02. [Seasonal Wetland Dynamics Using NDWI](02-Seasonal-NDWI-Analysis/)**
 
-### 2. Seasonal Wetland Dynamics Using NDWI (2005–2025)
+Assessment of seasonal wetland and surface-water dynamics using monthly NDWI maps.
 
-Seasonal and temporal assessment of surface water conditions using monthly NDWI maps.
+**03. [Spatial Ecological Assessment](03-Spatial-Ecological-Assessment/)**
 
-[View Project](./02-Seasonal-NDWI-Analysis/)
+Spatial assessment of ecological disturbance, exposure, vulnerability, and resilience in Chalan Beel.
 
-### 3. Spatial Ecological Assessment
+**04. [Upazila-Wise Ecological Risk Assessment](04-Upazila-Wise-Ecological-Risk/)**
 
-Spatial assessment of disturbance, exposure, vulnerability, and resilience across Chalan Beel.
+Spatial analysis and comparison of ecological risk patterns across selected upazilas of the Chalan Beel region.
 
-[View Project](./03-Spatial-Ecological-Assessment/)
+### Data Analysis and Regional Development
 
-### 4. Upazila-Wise Ecological Risk Assessment
+**05. [Regional Competitiveness and Spatial Interaction Analysis](05-Regional-Competitiveness-Analysis/)**
 
-Spatial assessment of LERI and upazila-level ecological risk, including eight individual upazila maps.
+District-level regional competitiveness, centrality assessment, and spatial interaction analysis across 16 districts of northern Bangladesh.
 
-[View Project](./04-Upazila-Wise-Ecological-Risk/)
+**06. [District-Level Inequality and Competitiveness Analysis](06-District-Inequality-Analysis/)**
 
----
+Analysis of district-level inequality using the Theil Index and Regional Competitiveness Index.
 
 ## Education
 
-**Bachelor of Urban and Regional Planning (BURP)**
-
+**Bachelor of Urban and Regional Planning (BURP)**  
 Rajshahi University of Engineering & Technology (RUET)  
-2026 | CGPA: 3.33/4.00
-
----
+Graduation: 2026 | CGPA: 3.33/4.00
 
 ## Contact
 
-- Email: ghalder838@gmail.com
-- Location: Rajshahi, Bangladesh
-- GitHub: [Gourab-Halder](https://github.com/Gourab-Halder)
+- **GitHub:** [Gourab-Halder](https://github.com/Gourab-Halder)
+- **Location:** Rajshahi, Bangladesh
